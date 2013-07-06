@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/bcpkix-jdk15on-147.jar" sourcepath="/home/liranuna/Projects/spaceport-signer/libs/bcpkix-jdk15on-147.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/liranuna/Projects/spaceport-signer/libs/bcpkix-jdk15on-147.zip!/bcpkix-jdk15on-147/docs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/bcprov-jdk15on-147.jar" sourcepath="libs/bcpkix-jdk15on-147-src.zip"/>
+	<classpathentry kind="lib" path="libs/dd-plist.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
